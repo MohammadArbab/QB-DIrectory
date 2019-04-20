@@ -5,4 +5,5 @@ Requirements:
  - QB Class Present
  - No Default Constructor
  - Each QB has to have: First and Last Names, Team, Age, Jersey Number, and Rating (the formula)
+ - Display as a Pop-Up (Optional)
  
